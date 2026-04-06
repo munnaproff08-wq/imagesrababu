@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Image to Prompt",
+  "description": "Convert any image into a detailed prompt text for image generation.",
+  "requestFramePermissions": []
+}
